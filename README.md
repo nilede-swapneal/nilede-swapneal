@@ -1,20 +1,19 @@
-Hi 👋 My name is Swapnil Sargar
+Hi 👋 I am Swapnil Sargar
 ===============================
 
 Full Stack Developer (Laravel + Vue 🔥)
 ---------------------------------------
 
-7+ years in the software industry. Every day working with same tech stack \[ Laravel + VueJs 3 + InertiaJs + Tailwind CSS \].
+I consult and partner with SaaS startup founders to help them build their new or existing products, apps, and websites.
+
+With my 7+ years of industry experience, I do research, plan & implement their ideas in real-world applications. I help them execute from Ideas to Deployment with staff hiring, augmentation, interviews, and mentoring their existing team. 
 
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [Nilede Technologies](http://nilede.tech)
+* 🖥️  See my portfolio at [Swapneal](http://swapneal.dev)
 * ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
-* 🚀  I'm currently working on [Liplick Pizzeria](http://liplickpizzeria.com)
-* 🧠  I'm learning web 3
+* 🚀  I'm currently working on [nilede tech](http://nilede.tech)
+* 🧠  I'm learning open source contribution
 
-<a href="https://www.twitter.com/swapneal_sargar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/swapneal_sargar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
@@ -36,14 +35,9 @@ src="https://img.shields.io/twitter/follow/swapneal_sargar?logo=twitter&style=fo
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/swapneal-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swapnil-sargar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/swapneal_sargar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/swapneal-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapneal-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

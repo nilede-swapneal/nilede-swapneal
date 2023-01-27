@@ -8,6 +8,14 @@ I consult and partner with SaaS startup founders to help them build their new or
 
 With my 7+ years of industry experience, I do research, plan & implement their ideas in real-world applications. I help them execute from Ideas to Deployment with staff hiring, augmentation, interviews, and mentoring their existing team. 
 
+Here is our tech stack:<br>
+* Laravel PHP, Inertia JS<br>
+* Vue JS, React Js, Ionic Framework<br>
+* React Native, Next JS, Nuxt JS<br>
+* UI/UX Design(Only on Figma)<br>
+* HTML, CSS template dev with tailwind CSS, bootstrap.
+
+More about me:
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [Swapneal](http://swapneal.dev)
 * ✉️  You can contact me at [swapnil@nilede.tech](mailto:swapnil@nilede.tech)
